@@ -1,0 +1,46 @@
+The Corpus of Linguistic Acceptability (CoLA) is a set of English sentences labelled as grammatical or ungrammatical from published linguistics literature. A sentence is labelled as unacceptable if it falls in one of the three violations: Morphological Violation, Syntactic Violation or Semantic Violation. Below are some ungrammatical sentences from the training set:
+
+They drank the pub.
+The professor talked us.
+We yelled ourselves.
+We yelled Harry hoarse.
+Harry coughed himself.
+Harry coughed us into a fit.
+They caused him to become president by making him.
+They caused him to become angry by making him.
+They made him to exhaustion.
+The car honked down the road.
+The dog barked out of the room.
+The witch went into the forest by vanishing.
+The building is tall and tall.
+This building is taller and taller.
+This building got than that one.
+This building is than that one.
+Anson thought that himself was going to the club.
+Poseidon appears to own a dragon
+Digitize is my happiest memory
+Anson left before Jenny saw himself.
+Anson believed to be happy.
+Constant reading Shakespeare satisfied me
+The pigs grunts
+The owl hated the and loved the bat.
+Peter is pigs
+He can't possibly do that, possibly he?
+The poison was neutralised was claimed that by everyone
+Peter is those pigs.
+There were killed three men by the assassin.
+The constantly reading Shakespeare satisfied me
+What a kind of actor is he?
+Agamemnon seemed that left.
+Gilgamesh never has flown a dragon.
+This girl in the red coat will and dress must put a picture of Bill on your desk.
+This girl in the or on the red coat will put a picture of Bill on your desk.
+This girl in the red coat will put a picture of Bill on your desk it before tomorrow.
+She her will put a picture of Bill on your desk before tomorrow.
+Tracy has become a republican and of the opinion that we must place nuclear weapons in Europe.
+Chris became quite conservative and trying to change their minds.
+Gerry became a republican and awarded a prize.
+When Dr Jones died of apoplexy didn't he, Mary Crawford went to live with his wife.
+
+
+Based on the above sentences, I want you to generate 1082 distinct ungrammatical sentences that fall in one of the three violations: Morphological Violation, Syntactic Violation or Semantic Violation. Moreover, I want the generated sentences to follow the same style of the above ungrammatical sentences included in the cola training set.
